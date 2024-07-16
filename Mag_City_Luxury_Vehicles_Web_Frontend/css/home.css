@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    color: black;
+}
+
+p{
+    color: black;
+}
+
+header {
+    
+
+    height: 400px;
+
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 50px 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 36px;
+    margin-bottom: 15px;
+}
+
+header p {
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+
+header img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.header .a{
+    color: #000;
+}
+
+
+#introduction {
+    padding: 50px 0;
+}
+
+#introduction h2 {
+    font-size: 42px;
+    margin-bottom: 20px;
+}
+
+#introduction p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+#introduction .btn {
+    font-size: 18px;
+    padding: 10px 20px;
+}
+
+
+.container {
+    padding: 15px;
+   
+}
+
+
+
+section {
+    padding: 40px 0;
+    
+}
+
+#contact{
+    background-image: url(../images/bg.png);
+}
+
+
+form{
+    background-color: transparent;
+    backdrop-filter: blur(10px);
+    text-align: left;
+}
+
+
+
+footer {
+    background: #333;
+}
+
+footer p {
+    margin: 0;
+}
